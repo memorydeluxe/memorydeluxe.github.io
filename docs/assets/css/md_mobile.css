@@ -164,9 +164,9 @@
 
 			*/
 
-			.image {
+			img.image {
 					display: block;
-  					width: 75vw;
+  					width: 100%;
   					height: auto;
   					margin:  auto;
   					object-position: 50% 50%;
