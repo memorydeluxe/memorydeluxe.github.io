@@ -166,7 +166,7 @@
 
 			img.image {
 					display: block;
-  					width: 100%;
+  					width: 100vw;
   					height: auto;
   					margin:  auto;
   					object-position: 50% 50%;
